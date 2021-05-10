@@ -42,7 +42,7 @@ The following is a table of the performance results for Thomas High School after
 
 ![image](https://user-images.githubusercontent.com/79061124/117590629-69e92180-b0fe-11eb-92bb-d8db25b3bf8b.png)
 
-- Thre results demonstrate a significant imporvement in Thomas High School's performance from the previous table after replacing the 9th grade scores. This is mainly a result of a lower number of students after the 9th grade results were replaced
+- The results demonstrate a significant imporvement in Thomas High School's performance from the previous table after replacing the 9th grade scores. This is mainly a result of a lower number of students after the 9th grade results were replaced
 - Average math and reading scores are between 83%-84% and passing rates for math, reading, and both are between 90%-97%. 
 - The data indicates strong performance from grade 10-12 students compared to other schools - Thomas High School is within the top 5 best performing schools:
 
